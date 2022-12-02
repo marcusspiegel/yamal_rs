@@ -1,0 +1,20 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Spiegel
+    given-names: Marcus P.
+    orcid: https://orcid.org/0000-0001-5879-5465
+  - family-names: Volkovitskiy
+    given-names: Alexander
+  - family-names: Terekhina
+    given-names: Alexandra
+  - family-names: Forbes
+    given-names: Bruce C.
+  - family-names: Park
+    given-names: Taejin
+  - family-names: Macias-Fauria
+    given-names: Marc
+title: marcusspiegel/yamal_rs: yamal_rs v1.0.0
+version: v1.0.0
+doi: https://doi.org/10.5281/zenodo.7387883
+date-released: 2022-12-01
